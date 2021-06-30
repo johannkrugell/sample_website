@@ -1,6 +1,31 @@
 .nav_spacing {
     margin: 0 0 0 10px; text-decoration: none; color: inherit;
   }
-  .nav_menu {
+  
+.nav_menu {
     text-align: right; 
   }
+
+.image_link {
+    text-decoration:none
+  }
+
+.table_padding {
+    padding: 10px;
+}
+
+.moby_dick_header {
+    text-align: center; margin: 0 0 80px 0
+}
+
+.whale_image {
+    display: block; margin: 0 auto
+}
+
+.moby_dick_div {
+    width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa
+}
+
+.moby_dick_span {
+    font-style: normal; font-size: 24px; font-weight: bold; color: #ff0000
+}
